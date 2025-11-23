@@ -60,32 +60,32 @@ streamlit run app.py
 
 **Usage**
 
-> Paste Python code or upload a .py file
+ Paste Python code or upload a .py file
 
-> Click Analyze Code
+ Click Analyze Code
 
-> View results in tabs:
+ View results in tabs:
 
-> Summary
+ Summary
 
-> Style & Lint Issues
+ Style & Lint Issues
 
-> Original vs Formatted Code
+ Original vs Formatted Code
 
-> Complexity Metrics
+ Complexity Metrics
 
-> Download the review report
+ Download the review report
 
 📦 Output Includes
 
-# Lint warnings
+ Lint warnings
 
-# Auto-formatted code
+ Auto-formatted code
 
-# Code complexity rank
+ Code complexity rank
 
-# Maintainability Index
+ Maintainability Index
 
-# Final Code Quality Score (/10)
+ Final Code Quality Score (/10)
 
-# Full report in Markdown
+ Full report in Markdown
